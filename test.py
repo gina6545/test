@@ -1,2 +1,3 @@
-print("This is test.py")
+def hello():
+    print("This is test.py")
 
