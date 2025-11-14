@@ -1,2 +1,2 @@
-print("This is test.py")
-
+def hello(name):
+    print(f"hello {name}")
